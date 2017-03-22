@@ -1,0 +1,24 @@
+{
+  "name": "jest_unit_test",
+  "version": "1.0.0",
+  "description": "jest, unittest, testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topzerzar/javascript_unit_test_with_jest.git"
+  },
+  "keywords": [
+    "jest",
+    "unittest",
+    "testing"
+  ],
+  "author": "weerapon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topzerzar/javascript_unit_test_with_jest/issues"
+  },
+  "homepage": "https://github.com/topzerzar/javascript_unit_test_with_jest#readme"
+}
